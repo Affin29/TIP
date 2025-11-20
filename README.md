@@ -41,5 +41,7 @@ Power BI
 
 *License
 This dataset is intended for educational, learning, and analysis purposes only.
+<img width="760" height="431" alt="Screenshot 2025-11-20 215436" src="https://github.com/user-attachments/assets/05e9f37d-ca7e-47ee-ab30-da6fec54fb3b" />
+
 
 Understanding human tipping behavior
